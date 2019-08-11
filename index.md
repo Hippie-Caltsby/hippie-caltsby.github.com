@@ -4,7 +4,7 @@
 <title>Jianfeng Zhou's Home Page</title>
 </head>
 <body>
-<img src="https://github.com/Hippie-Caltsby/hippie-caltsby.github.com/blob/master/photo.jpg" height="325" width="365"/>
+<img src="https://github.com/Hippie-Caltsby/hippie-caltsby.github.com/blob/master/photo.jpg" height="365" width="325"/>
 <p>
 <font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br>
 <font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br>
