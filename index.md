@@ -10,12 +10,10 @@
 <font size="4" face="Georgia, serif"><b>E-mail:</b><br>jfzhou2-c@my.cityu.edu.hk</font><br>
 <font size="4" face="Georgia, serif"><b>Address:</b><br>FYW building 2386, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong</font>
 </p>
-<h2>ABOUT ME</h2>
-I am a PhD candidate in <a href="http://www.ee.cityu.edu.hk/home/">Department of Electrical Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="http://www.ee.cityu.edu.hk/~kstang/">Dr. Wallace K.S. Tang</a>. 
 
 <h2>EDUCATION</h2>
 
-PhD candidate, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>, 2016-now.<br>
+PhD candidate supervised by <a href="http://www.ee.cityu.edu.hk/~kstang/">Dr. Wallace K.S. Tang</a>, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>, 2016-now.<br>
 BS,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, <a href="https://www.zju.edu.cn//">Zhejiang University</a>, 2012-2016.<br>
 
 
