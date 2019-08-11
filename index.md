@@ -24,7 +24,7 @@ BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, Zhejia
 <p>Complex Networks, Optimization </p>
 
 <h4>Publications</h4>
-1.Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). Multi-language naming game. Physica A: Statistical Mechanics and its Applications, 496, 620-634.
+1. Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). Multi-language naming game. Physica A: Statistical Mechanics and its Applications, 496, 620-634.</br>
 
 1. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "A Bayesian Restarting Approach to Algorithm Selection", <a href="https://www.springer.com/gp/book/9783319687582"> In: Simulated Evolution and Learning</a>, (Proc. SEAL 2017), Shenzhen, pp.397–409 (2017).<br>
 2. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "Exploratory Landscape Analysis Using Algorithm Based Sampling", In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '18), Kyoto, Japan (2018).<br>
