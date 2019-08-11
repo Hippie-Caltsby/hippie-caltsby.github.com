@@ -24,10 +24,11 @@ BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Zh
 <p>Complex Networks, Optimization </p>
 
 <h4>Publications</h4>
-1. Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). Multi-language naming game. Physica A: Statistical Mechanics and its Applications, 496, 620-634.</br>
+1. Bi X, Tang WK, Han Z, Zhou J. Distributing Electric Vehicles to the Right Charging Queues. In2019 IEEE International Symposium on Circuits and Systems (ISCAS) 2019 May 26 (pp. 1-5). IEEE.<br>
 2. Garaj M, Hong KY, Chung HS, Zhou J, Lo AW. Photovoltaic Panel Health Diagnostic System for Solar Power Plants. In2019 IEEE Applied Power Electronics Conference and Exposition (APEC) 2019 Mar 17 (pp. 1078-1083). IEEE.</br>
 3. He Y, Zhou J, Yuen SY. Composing photomosaic images using clustering based evolutionary programming. Multimedia Tools and Applications. 2018 Apr 9:1-8.<br>
-4. Bi X, Tang WK, Han Z, Zhou J. Distributing Electric Vehicles to the Right Charging Queues. In2019 IEEE International Symposium on Circuits and Systems (ISCAS) 2019 May 26 (pp. 1-5). IEEE.<br>
+4. Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). Multi-language naming game. Physica A: Statistical Mechanics and its Applications, 496, 620-634.</br>
+
 
 <h2>TEACHING</h2>
 Digital Signal Processing, EE4015, teaching assistant, 2016-2017.<br>
