@@ -16,7 +16,7 @@ I am a PhD candidate in <a href="http://www.ee.cityu.edu.hk/home/">Department of
 <h2>EDUCATION</h2>
 
 PhD candidate, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>, 2016-now.<br>
-BS, College of Electrical Engineering, <a href="http://www.zju.edu.cn/english/">Zhejiang University</a>, 2012-2016.<br>
+BS,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, <a href="https://www.zju.edu.cn//">Zhejiang University</a>, 2012-2016.<br>
 
 
 <h2>RESEARCH</h2>
