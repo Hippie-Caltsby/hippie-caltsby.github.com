@@ -1,6 +1,6 @@
 <html>
 <head>
-<h1> tag<h1>
+<h1> tag</h1>
 </head>
 <body>
 <img src="photo.png" height="182" width="171"/>
