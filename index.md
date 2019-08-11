@@ -35,4 +35,4 @@ Introduction to Electronic Design, EE1354, teaching assistant, 2017-2018, 2018-2
 Systems and Control, EE3114, teaching assistant, 2016-2017.<br>
 
 <h2>Code&Data Sharing</h2>
-Attraction model.
+<a href="https://github.com/Hippie-Caltsby/hippie-caltsby.github.com/edit/master/attraction_download.md">Attraction model</a>.
