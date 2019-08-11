@@ -31,6 +31,5 @@ BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Zh
 
 
 <h2>TEACHING</h2>
-Digital Signal Processing, EE4015, teaching assistant, 2016-2017.<br>
-Data Structures and Algorithms, EE2331, teaching assistant, 2017-2018.<br>
-Foundations of Data Engineering, EE3001, teaching assistant,2016-2017, 2017-2018, 2018-2019.<br>
+Introduction to Electronic Design, EE1354, teaching assistant, 2017-2018, 2018-2019.<br>
+Systems and Control, EE3114, teaching assistant, 2016-2017.<br>
