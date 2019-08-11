@@ -6,8 +6,8 @@
 <body>
 <img src="https://github.com/Hippie-Caltsby/hippie-caltsby.github.com/blob/master/photo.jpg" height="364.7" width="342.5"/>
 <p>
-<font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br>
-<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br>
+<font size="6" face="Georgia, serif">Jianfeng Zhou</font><br>
+<font size="4" face="Georgia, serif"><b>E-mail:</b><br>jfzhou2-c@my.cityu.edu.hk</font><br>
 <font size="4" face="Georgia, serif"><b>Address:</b><br>FYW building 2386, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong</font>
 </p>
 <h2>ABOUT ME</h2>
