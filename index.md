@@ -4,7 +4,7 @@
 <title>Jianfeng Zhou's Home Page</title>
 </head>
 <body>
-<img src="photo.png" height="364.7" width="342.5"/>
+<img src="photo.png" height="182" width="171"/>
 <p>
 <font size="6" face="Georgia, serif">Jianfeng Zhou</font><br>
 <font size="4" face="Georgia, serif"><b>E-mail:</b><br>jfzhou2-c@my.cityu.edu.hk</font><br>
@@ -14,7 +14,8 @@
 <h2>EDUCATION</h2>
 
 PhD candidate supervised by <a href="http://www.ee.cityu.edu.hk/~kstang/">Dr. Wallace K.S. Tang</a>, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>, 2016-now.<br>
-BS,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, <a href="https://www.zju.edu.cn//">Zhejiang University</a>, 2012-2016.<br>
+Visiting scholar,<a href="https://research.ece.ncsu.edu/adac/">ADAC Lab directed by Dr. Mo-Yuen Chow, North Carolina State University, 2018.05-2018.11.
+BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, <a href="https://www.zju.edu.cn//">Zhejiang University</a>, 2012-2016.<br>
 
 
 <h2>RESEARCH</h2>
