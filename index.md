@@ -14,7 +14,7 @@
 <h2>EDUCATION</h2>
 
 PhD candidate supervised by <a href="http://www.ee.cityu.edu.hk/~kstang/">Dr. Wallace K.S. Tang</a>, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>, 2016-now.<br>
-Visiting scholar,<a href="https://research.ece.ncsu.edu/adac/">ADAC Lab directed by Dr. Mo-Yuen Chow, North Carolina State University, 2018.05-2018.11.
+Visiting scholar, <a href="https://research.ece.ncsu.edu/adac/">ADAC Lab directed by Dr. Mo-Yuen Chow, North Carolina State University, 2018.05-2018.11.<br>
 BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, <a href="https://www.zju.edu.cn//">Zhejiang University</a>, 2012-2016.<br>
 
 
