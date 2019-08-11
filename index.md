@@ -4,7 +4,7 @@
 <title>Jianfeng Zhou's Home Page</title>
 </head>
 <body>
-<img src="https://github.com/Hippie-Caltsby/hippie-caltsby.github.com/blob/master/photo.png" height="364.7" width="342.5"/>
+<img src="img/photo.png" height="364.7" width="342.5"/>
 <p>
 <font size="6" face="Georgia, serif">Jianfeng Zhou</font><br>
 <font size="4" face="Georgia, serif"><b>E-mail:</b><br>jfzhou2-c@my.cityu.edu.hk</font><br>
