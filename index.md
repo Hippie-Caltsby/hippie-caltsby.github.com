@@ -22,7 +22,7 @@ BS,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, <a href=
 <h2>RESEARCH</h2>
 <h4>Research Interests</h4>
  
-<p>My research interests include algorithm selection, evolutionary computation (and its applications), computer vision and machine learning. </p>
+<p>Complex Networks, Optimization </p>
 
 <h4>Publications</h4>
 1. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "A Bayesian Restarting Approach to Algorithm Selection", <a href="https://www.springer.com/gp/book/9783319687582"> In: Simulated Evolution and Learning</a>, (Proc. SEAL 2017), Shenzhen, pp.397–409 (2017).<br>
