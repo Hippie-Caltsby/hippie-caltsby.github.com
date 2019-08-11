@@ -15,7 +15,7 @@
 
 PhD candidate supervised by <a href="http://www.ee.cityu.edu.hk/~kstang/">Dr. Wallace K.S. Tang</a>, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electrical Engineering</a>, City University of Hong Kong, 2016-now.<br>
 Visiting scholar, <a href="https://research.ece.ncsu.edu/adac/">ADAC Lab directed by Dr. Mo-Yuen Chow</a>, North Carolina State University, 2018.05-2018.11.<br>
-BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, Zhejiang University, 2012-2016.<br>
+BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Zhejiang University, 2012-2016.<br>
 
 
 <h2>RESEARCH</h2>
@@ -24,8 +24,6 @@ BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering, Zhejia
 <p>Complex Networks, Optimization </p>
 
 <h4>Publications</h4>
-1. Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). Multi-language naming game. Physica A: Statistical Mechanics and its Applications, 496, 620-634.</br>
-
 1. Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). Multi-language naming game. Physica A: Statistical Mechanics and its Applications, 496, 620-634.</br>
 2. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "Exploratory Landscape Analysis Using Algorithm Based Sampling", In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '18), Kyoto, Japan (2018).<br>
 3. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, <a href="https://fylou.github.io/">Yang Lou</a>, and <a href="https://tjnumark.wixsite.com/mark">Xin Zhang</a>. "A sequential algorithm portfolio approach for black box optimization." <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a> 44 (2019): 559-570.<br>
