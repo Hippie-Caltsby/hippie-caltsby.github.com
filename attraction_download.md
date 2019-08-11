@@ -7,7 +7,7 @@
 
 
 
-<h2><a href="https://portland-my.sharepoint.com/:f:/r/personal/jfzhou2-c_ad_cityu_edu_hk/Documents/Code_and_data_for_attraction_model?download=1">Code&Data for the attraction model</a></h2>
+<h2><a href="https://portland-my.sharepoint.com/:u:/g/personal/jfzhou2-c_ad_cityu_edu_hk/EY13zZcT_WZEp4r64K_vmfMB5rMg7l1AuhjpndAeYN8IQg?download=1">Code&Data for the attraction model</a></h2>
 
 
 <h2>Back to author's homepage</h2>
