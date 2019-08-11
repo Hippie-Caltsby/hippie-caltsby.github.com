@@ -1,7 +1,6 @@
 <html>
 <head>
-<meta charset="utf-8">
-<title>Jianfeng Zhou's homepage</title>
+# This is an <h1> tag
 </head>
 <body>
 <img src="photo.png" height="182" width="171"/>
