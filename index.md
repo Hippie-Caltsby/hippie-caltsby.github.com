@@ -1,5 +1,8 @@
 <html>
-
+<head>
+<meta charset="utf-8">
+<title>Jianfeng Zhou's homepage</title>
+</head>
 <body>
 <img src="photo.png" height="182" width="171"/>
 <p>
