@@ -1,6 +1,5 @@
 <html>
 <head>
-safdsf
 </head>
 <body>
 <img src="photo.png" height="182" width="171"/>
