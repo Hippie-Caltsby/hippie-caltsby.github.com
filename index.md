@@ -25,9 +25,9 @@ BEng,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Zh
 
 <h4>Publications</h4>
 1. Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). Multi-language naming game. Physica A: Statistical Mechanics and its Applications, 496, 620-634.</br>
-2. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "Exploratory Landscape Analysis Using Algorithm Based Sampling", In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '18), Kyoto, Japan (2018).<br>
-3. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, <a href="https://fylou.github.io/">Yang Lou</a>, and <a href="https://tjnumark.wixsite.com/mark">Xin Zhang</a>. "A sequential algorithm portfolio approach for black box optimization." <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a> 44 (2019): 559-570.<br>
-4. Yaodong He, Jianfeng Zhou, and <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, "Composing photomosaic images using clustering based evolutionary programming." <a href="https://doi.org/10.1007/s11042-019-07798-5">https://doi.org/10.1007/s11042-019-07798-5</a>, accepted by <a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a>.<br>
+2. Garaj M, Hong KY, Chung HS, Zhou J, Lo AW. Photovoltaic Panel Health Diagnostic System for Solar Power Plants. In2019 IEEE Applied Power Electronics Conference and Exposition (APEC) 2019 Mar 17 (pp. 1078-1083). IEEE.</br>
+3. He Y, Zhou J, Yuen SY. Composing photomosaic images using clustering based evolutionary programming. Multimedia Tools and Applications. 2018 Apr 9:1-8.<br>
+4. Bi X, Tang WK, Han Z, Zhou J. Distributing Electric Vehicles to the Right Charging Queues. In2019 IEEE International Symposium on Circuits and Systems (ISCAS) 2019 May 26 (pp. 1-5). IEEE.<br>
 
 <h2>TEACHING</h2>
 Digital Signal Processing, EE4015, teaching assistant, 2016-2017.<br>
