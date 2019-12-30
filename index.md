@@ -35,5 +35,3 @@ B.E.,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Zh
 Introduction to Electronic Design, EE1354, teaching assistant, 2017-2018, 2018-2019.<br>
 Systems and Control, EE3114, teaching assistant, 2016-2017.<br>
 
-<h2>Code&Data Sharing</h2>
-<a href="attraction-download.html">Attraction model</a>.
