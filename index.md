@@ -26,7 +26,7 @@ B.E.,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Zh
 2. He Y, Zhou J, Yuen SY. Composing photomosaic images using clustering based evolutionary programming. Multimedia Tools and Applications. 2018 Apr 9:1-8.<br>
 3. Garaj M, Hong KY, Chung HS, Zhou J, Lo AW. Photovoltaic Panel Health Diagnostic System for Solar Power Plants. In2019 IEEE Applied Power Electronics Conference and Exposition (APEC) 2019 Mar 17 (pp. 1078-1083). IEEE.<br>
 4. Bi X, Tang WK, Han Z, Zhou J. Distributing Electric Vehicles to the Right Charging Queues. In2019 IEEE International Symposium on Circuits and Systems (ISCAS) 2019 May 26 (pp. 1-5). IEEE.<br>
-5. Zhou, J., Fan, Z., Ng, K. T., Tang, W. K. (2019). An attractiveness-based model for human mobility in all spatial ranges. New Journal of Physics. 21. <br> <a href="attraction-download.html">Code&Data</a>.
+5. Zhou, J., Fan, Z., Ng, K. T., Tang, W. K. (2019). An attractiveness-based model for human mobility in all spatial ranges. New Journal of Physics. 21. <a href="attraction-download.html">[Code&Data]</a>.<br>
 
 
 
