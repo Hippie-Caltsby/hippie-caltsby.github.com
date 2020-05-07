@@ -27,9 +27,14 @@ B.E.,<a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Zh
 3. Garaj M, Hong KY, Chung HS, Zhou J, Lo AW. Photovoltaic Panel Health Diagnostic System for Solar Power Plants. In2019 IEEE Applied Power Electronics Conference and Exposition (APEC) 2019 Mar 17 (pp. 1078-1083). IEEE. <a href="https://doi.org/10.1109/APEC.2019.8721839">[Publication address]</a><br>
 4. Bi X, Tang WK, Han Z, Zhou J. Distributing Electric Vehicles to the Right Charging Queues. In2019 IEEE International Symposium on Circuits and Systems (ISCAS) 2019 May 26 (pp. 1-5). IEEE. <a href="https://doi.org/10.1109/ISCAS.2019.8702177">[Publication address]</a><br>
 5. Zhou, J., Fan, Z., Ng, K. T., Tang, W. K. (2019). An attractiveness-based model for human mobility in all spatial ranges. New Journal of Physics. 21. <a href="https://doi.org/10.1088/1367-2630/ab5da4">[Publication address]</a> <a href="attraction-download.html">[Code&Data]</a>.<br>
-6. Zhou, J. Tang, W. K. (2020). Feature-Embedded Evolutionary Algorithm for Network Optimization. In2020 IEEE International Symposium on Circuits and Systems (ISCAS) 2020 Oct. 11 IEEE.
+6. Zhou, J., Tang, W. K. (2020). Feature-Embedded Evolutionary Algorithm for Network Optimization. In2020 IEEE International Symposium on Circuits and Systems (ISCAS) 2020 Oct. 11 IEEE.(Accepted)
+7. Jia, Q. Han, Z. Y., Tang, W. K. (2020). Consensus in Multi-Agent System Under Aperiodic Denial-of-Service Attacks.In2020 IEEE International Symposium on Circuits and Systems (ISCAS) 2020 Oct. 11 IEEE.(Accepted)
 
-
+<h4>Awards</h4>
+1. Outstanding Academic Performance Award for Research Degree Students. City University of Hong Kong, Hong Kong. 2018-2019.
+2. Research Tuition Scholarship. City University of Hong Kong, Hong Kong. 2019-2020.
+1. Outstanding Academic Performance Award for Research Degree Students. City University of Hong Kong, Hong Kong. 2019-2020.
+3. Research Tuition Scholarship. City University of Hong Kong, Hong Kong. 2020-2021.
 
 <h2>TEACHING</h2>
 Introduction to Electronic Design, EE1354, teaching assistant, 2017-2018, 2018-2019.<br>
