@@ -22,8 +22,8 @@ B.E., <a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Z
 <p>Complex Networks, Optimization, Graph Neural Network </p>
 
 <h4>Publications</h4>
-1. Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). <a href="https://doi.org/10.1016/j.physa.2017.12.124"> [Multi-language naming game.]</a> Physica A: Statistical Mechanics and its Applications, 496, 620-634.<br>
-2. He Y, Zhou J, Yuen SY. Composing photomosaic images using clustering based evolutionary programming. Multimedia Tools and Applications. 2018 Apr 9:1-8. <a href="https://doi.org/10.1007/s11042-019-07798-5">[Publication address]</a><br>
+1. Zhou, J., Lou, Y., Chen, G., & Tang, W. K. (2018). <a href="https://doi.org/10.1016/j.physa.2017.12.124"> Multi-language naming game.</a> Physica A: Statistical Mechanics and its Applications, 496, 620-634.<br>
+2. He Y, Zhou J, Yuen SY. <a href="https://doi.org/10.1007/s11042-019-07798-5"> Composing photomosaic images using clustering based evolutionary programming.</a> Multimedia Tools and Applications. 2018 Apr 9:1-8. <br>
 3. Garaj M, Hong KY, Chung HS, Zhou J, Lo AW. Photovoltaic Panel Health Diagnostic System for Solar Power Plants. In2019 IEEE Applied Power Electronics Conference and Exposition (APEC) 2019 Mar 17 (pp. 1078-1083). IEEE. <a href="https://doi.org/10.1109/APEC.2019.8721839">[Publication address]</a><br>
 4. Bi X, Tang WK, Han Z, Zhou J. Distributing Electric Vehicles to the Right Charging Queues. In2019 IEEE International Symposium on Circuits and Systems (ISCAS) 2019 May 26 (pp. 1-5). IEEE. <a href="https://doi.org/10.1109/ISCAS.2019.8702177">[Publication address]</a><br>
 5. Zhou, J., Fan, Z., Ng, K. T., Tang, W. K. (2019). An attractiveness-based model for human mobility in all spatial ranges. New Journal of Physics. 21. <a href="https://doi.org/10.1088/1367-2630/ab5da4">[Publication address]</a> <a href="attraction-download.html">[Code&Data]</a>.<br>
