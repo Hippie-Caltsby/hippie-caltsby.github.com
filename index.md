@@ -10,12 +10,12 @@
 </p>
 
 <h2>EDUCATION</h2>
-<font style="line-height:1.5;">文字内容
+< p style = "margin:20px" >一段文字</ p >
 
 Ph.D. candidate, supervised by <a href="http://www.ee.cityu.edu.hk/~kstang/">Dr. Wallace K.S. Tang</a>, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electrical Engineering</a>, City University of Hong Kong, 2016-now.<br>
 Visiting scholar, <a href="https://research.ece.ncsu.edu/adac/">ADAC Lab directed by Dr. Mo-Yuen Chow</a>, North Carolina State University, 2018.05-2018.11.<br>
 B.E., <a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Zhejiang University, 2012-2016.<br>
-</font>
+
 
 <h2>RESEARCH</h2>
 <h4>Research Interests</h4>
