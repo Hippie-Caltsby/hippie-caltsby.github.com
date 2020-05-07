@@ -33,8 +33,8 @@ B.E., <a href="http://ee.zju.edu.cn//"> College of Electrical Engineering</a>, Z
 <h4>Awards</h4>
 1. Outstanding Academic Performance Award for Research Degree Students. City University of Hong Kong, Hong Kong. 2018-2019.<br>
 2. Research Tuition Scholarship. City University of Hong Kong, Hong Kong. 2019-2020.<br>
-1. Outstanding Academic Performance Award for Research Degree Students. City University of Hong Kong, Hong Kong. 2019-2020.<br>
-3. Research Tuition Scholarship. City University of Hong Kong, Hong Kong. 2020-2021.<br>
+3. Outstanding Academic Performance Award for Research Degree Students. City University of Hong Kong, Hong Kong. 2019-2020.<br>
+4. Research Tuition Scholarship. City University of Hong Kong, Hong Kong. 2020-2021.<br>
 
 <h2>TEACHING</h2>
 Introduction to Electronic Design, EE1354, teaching assistant, 2017-2018, 2018-2019.<br>
